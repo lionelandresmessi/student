@@ -1,5 +1,5 @@
 {
-  "name": "magestore/student-magento2",
+  "name": "lionel/student-magento2",
   "description": "N/A",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0"
@@ -22,7 +22,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Magestore\\Student\\": ""
+      "Lionel\\Student\\": ""
     }
   }
 }
